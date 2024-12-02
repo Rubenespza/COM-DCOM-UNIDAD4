@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\DCOMClient\DCOMClient\obj\Debug\DCOMClient.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DCOMClient\DCOMClient\obj\Debug\DCOMClient.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DCOMClient\DCOMClient\bin\Debug\DCOMClient.exe.config
+C:\Users\ACER\source\repos\DCOMClient\DCOMClient\bin\Debug\DCOMClient.exe
+C:\Users\ACER\source\repos\DCOMClient\DCOMClient\bin\Debug\DCOMClient.pdb
+C:\Users\ACER\source\repos\DCOMClient\DCOMClient\obj\Debug\DCOMClient.exe
+C:\Users\ACER\source\repos\DCOMClient\DCOMClient\obj\Debug\DCOMClient.pdb

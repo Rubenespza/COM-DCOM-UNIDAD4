@@ -1,0 +1,6 @@
+C:\Users\ACER\source\repos\DCOMServer\DCOMServer\bin\Debug\DCOMServer.dll
+C:\Users\ACER\source\repos\DCOMServer\DCOMServer\bin\Debug\DCOMServer.pdb
+C:\Users\ACER\source\repos\DCOMServer\DCOMServer\obj\Debug\DCOMServer.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DCOMServer\DCOMServer\obj\Debug\DCOMServer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DCOMServer\DCOMServer\obj\Debug\DCOMServer.dll
+C:\Users\ACER\source\repos\DCOMServer\DCOMServer\obj\Debug\DCOMServer.pdb
